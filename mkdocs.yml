@@ -1,5 +1,4 @@
-site_name: MkDocs YouTube Tutorial
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_name: Documentation | PER Caisse
 theme:
   name: material
   features:
@@ -26,9 +25,6 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
-
-plugins:
-  - social
 
 extra:
   social:
