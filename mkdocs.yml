@@ -1,4 +1,4 @@
-site_name: Documentation | PER Caisse
+site_name: PER Caisse | Documentation
 theme:
   name: material
   features:
