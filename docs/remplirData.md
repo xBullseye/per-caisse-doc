@@ -1,4 +1,4 @@
-# Remplir la Database
+# Remplir la base de données
 L'application utilise Flask pour gérer les routes qui permettent de remplir la base de données avec des données. Les scripts pour ces routes sont organisés dans des fichiers séparés selon leur fonctionnalité dans le dossier `backend > Base > api`.
 
 ## Processus Automatique de Remplissage
