@@ -72,7 +72,7 @@ flask db upgrade
 ```
 Ces commandes prépareront la base de données pour le bon fonctionnement de l'application. Assurez-vous d'exécuter ces commandes dans le répertoire du backend où se trouve le serveur Flask.
 
-## Lancer le projet mode developement
+## Lancer le projet en mode developement
 En suivant ces étapes, vous serez prêt à lancer et à utiliser le serveur Flask avec votre application ReactJS.
 ```bash
 # Lancer le serveur Flask avec l'application ReactJS
