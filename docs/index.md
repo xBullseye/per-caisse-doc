@@ -20,61 +20,18 @@ Le contexte de ce projet découle de la nécessité des propriétaires de la fer
 
     Le développement de cette application de bureau vise à répondre à ces besoins spécifiques. Notre objectif est de créer une solution logicielle conviviale et puissante qui permettra à nos clients de gérer tous les aspects de manière fluide et efficiente. Grâce à cette application, nous espérons contribuer de manière significative à la réussite de leurs projets éco responsables.
 
-### Plain codeblock
+## Technologies Utilisées
 
-A plain codeblock:
+Pendant le développement de notre logiciel de caisse, nous avons utilisé un ensemble de technologies pour créer une solution robuste et moderne. Voici un aperçu des principales technologies que nous avons utilisées :
 
-```
-Some code here
-def myfunction()
-// some comment
-```
+## Technologies Utilisées
 
-#### Code for a specific language
+Cette section présente un aperçu des technologies clés utilisées dans le développement de l'application.
 
-Some more code with the `py` at the start:
+[![React.js](https://img.shields.io/badge/React.js-17.x-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-10.x-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Electron](https://img.shields.io/badge/Electron-27.x-47848F?style=for-the-badge&logo=Electron)](https://www.electronjs.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
+[![SQLite](https://img.shields.io/badge/SQLite-3.x-003B57?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/index.html)
 
-``` py
-import tensorflow as tf
-def whatever()
-```
-
-#### With a title
-
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### With line numbers
-
-``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### Highlighting lines
-
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-## Icons and Emojs
-
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
+Ces outils ont été choisis pour leur efficacité, leur flexibilité et leur adaptabilité à nos besoins spécifiques, nous permettant de créer une solution logicielle robuste et performante pour nos clients.
