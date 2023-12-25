@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Cette section fournit des solutions aux problèmes courants pouvant survenir lors de la manipulation de la base de données.
+Cette section fournit des solutions aux problèmes courants pouvant survenir lors de la manipulation de la base de données, ou d'autres actions lors du développement de l'application.
 
 ## Problème avec la Base de Données
 
