@@ -25,6 +25,7 @@ Pour remplir les tables avec des données réelles du client, suivez ces étapes
 Pour initialiser complètement la base de données avec les données de clients, produits, catégories, tarifs et paiements, utilisez la route `http://127.0.0.1:8000/init-db`. Cette route permet de remplir toutes les tables nécessaires en une seule fois. Cette opération peut être effectuée via un client HTTP comme Postman ou en utilisant `curl` en ligne de commande.
 
 **Exemple avec Postman :**
+
 1. Ouvrez Postman.
 
 2. Créez une nouvelle requête POST.
