@@ -61,6 +61,9 @@ Pour initialiser et configurer la base de données de l'application, suivez les 
 # Naviguer dans le Répertoire du Backend
 cd backend
 
+# Définir la variable d'environnement FLASK_APP
+export FLASK_APP=./server.py
+
 # Initialisation de la Base de Données avec Flask
 flask db init
 
