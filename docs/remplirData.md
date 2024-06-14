@@ -26,11 +26,14 @@ Pour initialiser complètement la base de données avec les données de clients,
 
 **Exemple avec Postman :**
 1. Ouvrez Postman.
+
 2. Créez une nouvelle requête POST.
+
 3. Entrez l'URL `http://127.0.0.1:8000/init-db`.
+
 4. Assurez-vous que la méthode est définie sur POST.
+
 5. Cliquez sur "Send" pour exécuter la requête.
 
 **Exemple avec `curl` :**
-```sh
 curl -X POST http://127.0.0.1:8000/init-db
